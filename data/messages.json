@@ -1,0 +1,26 @@
+[
+  {
+    "sender": "Luan",
+    "message": "meu primeiro teste de persistência!",
+    "color": "lime",
+    "timestamp": "2026-11-19T21:19:07.394Z"
+  },
+  {
+    "sender": "Carlos",
+    "message": "Ola Luan! Estou conectado ao chat.",
+    "color": "lime",
+    "timestamp": "2026-11-19T21:22:25.070Z"
+  },
+  {
+    "sender": "Luan",
+    "message": "Olá Carlos! Recebi sua mensagem.",
+    "color": "lime",
+    "timestamp": "2026-11-19T21:23:06.105Z"
+  },
+  {
+    "sender": "Olá, Voltei",
+    "message": "Teste após reiniciar o servidor!.",
+    "color": "amber",
+    "timestamp": "2026-11-19T21:33:04.054Z"
+  }
+]

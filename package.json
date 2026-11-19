@@ -1,0 +1,21 @@
+
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Aula 08 - chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "RMK",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.27",
+    "string": "^3.3.3",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
